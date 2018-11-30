@@ -1,2 +1,2 @@
-# docker_qiniu
-docker project for qiniu test
+# docker_practice
+docker project for practice
